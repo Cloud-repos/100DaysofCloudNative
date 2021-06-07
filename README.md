@@ -14,4 +14,4 @@ Completed [Introduction to infrastructure as code using Bicep](https://docs.micr
 And with that, I am officially done with the Microsoft Build Cloud Skills Challenge! 
 
 The best news is that today begins the SUSE Cloud Native Foundations Scholarship challenge with Udacity.
-I logged into the classroom and stated meeting some of the new sholars in the program. Looking forward to learning a lot of new things.
+I logged into the classroom and stated meeting some of the new scholars in the program. Looking forward to learning a lot of new things.
