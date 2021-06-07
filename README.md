@@ -7,5 +7,11 @@ I started learning Cloud Native skills in March 2021. It began with a LinuxFound
 
 <img src="images/LearnPathLinkedIn.PNG" width="802" height="620">
 
+Completed [Instrument a cloud-native ASP.NET Core microservice](https://docs.microsoft.com/en-us/learn/modules/microservices-logging-aspnet-core/) Microsoft Learn Module.  The module covered a review of diagnostics logging and performance monitoring concepts, implemented diagnostics logging and monitoring with Application Insights, enabled Azure Monitor for Containers in a Kubernetes cluster, create a custom performance metric using Prometheus, and examined a custom performance metric using Azure Monitor for Containers.
 
- 
+Completed [Introduction to infrastructure as code using Bicep](https://docs.microsoft.com/en-us/learn/modules/introduction-to-infrastructure-as-code-using-bicep)
+
+And with that, I am officially done with the Microsoft Build Cloud Skills Challenge! 
+
+The best news is that today begins the SUSE Cloud Native Foundations Scholarship challenge with Udacity.
+I logged into the classroom and stated meeting some of the new sholars in the program. Looking forward to learning a lot of new things.
