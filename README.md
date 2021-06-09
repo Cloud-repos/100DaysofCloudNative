@@ -15,3 +15,13 @@ And with that, I am officially done with the Microsoft Build Cloud Skills Challe
 
 The best news is that today begins the SUSE Cloud Native Foundations Scholarship challenge with Udacity.
 I logged into the classroom and stated meeting some of the new scholars in the program. Looking forward to learning a lot of new things.
+
+Day 2: June 8, 2021
+
+Completed [Lesson 1: Welcome](https://classroom.udacity.com/nanodegrees/nd064-1/dashboard/overview) of the SUSE Cloud Native progam with Udacity. Today, I went over a first pass of the material for lesson 2: "Architecture Consideration for Cloud Native Applications". 
+
+This lesson covered covered development practices that should be considered to optimize an application's resilience, time to recovery, and traceability. Also covered how to build an application using monolith and microservice-based architecture. The choice of an application structure is highly impacted by available resources, requirements, and involved trade-offs. 
+
+Day 3: June 9, 2021
+
+Today we will have the orientation to the program. I look forward to meeting more scholars from around the world.
