@@ -24,4 +24,10 @@ This lesson covered covered development practices that should be considered to o
 
 Day 3: June 9, 2021
 
-Today we will have the orientation to the program. I look forward to meeting more scholars from around the world.
+Today we will have the orientation to the program. I look forward to meeting more scholars from around the world. 
+I attended a several sessions of an the [Java for Kubernetes](https://www.j4k.io/)online event featuring migrating and optimizing multi-cloud applications to run on Kubernetes.
+* Tools for observability, profiling, debugging, and IDEs for Java on containers, K8s and cloud
+
+* Tools that help you develop for cloud, containers and K8s, e.g. skaffold, jib, helm, podman, buildah, kail, stern, etc.
+
+* Developing build pipelines, how do I take an app and build it through a pipeline, e.g. DevOps
