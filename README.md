@@ -32,3 +32,10 @@ I attended a several sessions of a [Java for Kubernetes](https://www.j4k.io/) on
 * Tools that help you develop for cloud, containers and K8s, e.g. skaffold, jib, helm, podman, buildah, kail, stern, etc.
 
 * Developing build pipelines, how do I take an app and build it through a pipeline, e.g. DevOps
+
+Day 4: June 10, 2021
+
+Today I read a lot of documentation for the workflow and configurations that will be necessary for all the new software installation that I will be installing on my computer for use in the new SUSE program that I am doing with Udacity. There is a lot of new information that I am learning from the many resources shared in the program. A lot of information being passed down. It is an exciting learning time. 
+
+Day 5: June 11, 2021 
+--
