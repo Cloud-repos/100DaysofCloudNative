@@ -14,6 +14,9 @@ Completed [Introduction to infrastructure as code using Bicep](https://docs.micr
 And with that, I am officially done with the Microsoft Build Cloud Skills Challenge! 
 
 The best news is that today begins the SUSE Cloud Native Foundations Scholarship challenge with Udacity.
+
+<img src="images/SUSE+Scholarship+badge.png" width="400" height="400">
+
 I logged into the classroom and stated meeting some of the new scholars in the program. Looking forward to learning a lot of new things.
 
 Day 2: June 8, 2021
@@ -37,5 +40,16 @@ Day 4: June 10, 2021
 
 Today I read a lot of documentation for the workflow and configurations that will be necessary for all the new software installation that I will be installing on my computer for use in the new SUSE program that I am doing with Udacity. There is a lot of new information that I am learning from the many resources shared in the program. A lot of information being passed down. It is an exciting learning time. 
 
-Day 5: June 11, 2021 
---
+Day 5 & 6: June 11-12, 2021
+First weekend in the SUSE Cloud Native Udacity Challenge. 
+* Reviewed Lesson 1 - Introduction to Cloud Native Fundamentals
+* Reviewed and finished all the quizzes in Lesson 2 Architechture Conisderation for Cloud Native Applications
+
+Day 7: June 13, 2021
+Continued course work of the SUSE Cloud Native Udacity Challenge.
+Completed the following lessons 3.1 to 3.3 Container Orchestration with Kubernetes. 
+* 3.1 Introduction
+* 3.2 Transitions from VMs to Containters
+* 3.3 Docker for Application Packaging
+
+
