@@ -52,4 +52,14 @@ Completed the following lessons 3.1 to 3.3 Container Orchestration with Kubernet
 * 3.2 Transitions from VMs to Containters
 * 3.3 Docker for Application Packaging
 
+Day 8: June 14, 2021
+Today, I looked further into the documentation and links offered in the lesson. A lot of information to learn!
 
+Day 9: June 15, 2021
+
+I worked on lesson 3 Container Orchestration with Kubernetes. Spent some time digging deeper into the documentation and links offered in the lessons.
+
+Day 10: June 16, 2021
+I covered lesson 3.4 Docker Walkthrough step-by-step demo of how to package, build, run, tag, and push a Docker image. 
+
+Up next: 3.5 Useful Docker Commands.
