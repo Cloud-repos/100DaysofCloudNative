@@ -57,9 +57,21 @@ Today, I looked further into the documentation and links offered in the lesson. 
 
 Day 9: June 15, 2021
 
-I worked on lesson 3 Container Orchestration with Kubernetes. Spent some time digging deeper into the documentation and links offered in the lessons.
+I reviewed  lesson 3 Container Orchestration with Kubernetes. Spent some time digging deeper into the documentation and links offered in the lessons.
 
 Day 10: June 16, 2021
 I covered lesson 3.4 Docker Walkthrough step-by-step demo of how to package, build, run, tag, and push a Docker image. 
 
-Up next: 3.5 Useful Docker Commands.
+Also Covered lesson 3.5 Useful Docker Commands and complete the Docker quizzes on 3.6. I explored https://12factor.net/ and other resources shared in the program.
+
+Day 11 June 17, 2021
+
+Started Lesson 3.7 Docker for Application Packaging
+
+Day 12 June 18, 2021
+Finished Lesson 3.7
+
+Day 13 June 19, 2021
+
+Started Lesson 3.8
+
