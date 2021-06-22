@@ -72,6 +72,15 @@ Day 12 June 18, 2021
 Finished Lesson 3.7
 
 Day 13 June 19, 2021
-
+3.8
 Started Lesson 3.8
+3.8
+Day 14 June 20, 2021
+
+Day 15 June 21, 2021
+Lesson 3.9 - 3.10
+
+Day 16 June 22, 2021
+Lesson 3.11 -3.13. The gRPC Community Meetup.
+
 
