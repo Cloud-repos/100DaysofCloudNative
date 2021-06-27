@@ -66,32 +66,51 @@ Also Covered lesson 3.5 Useful Docker Commands and complete the Docker quizzes o
 
 Day 11 June 17, 2021
 
-Started Lesson 3.7 Docker for Application Packaging
+Started Lesson 3.7 Docker for Application Packaging: Package a Go web application using Docker capabilities. This exercise will involve the creation of a Docker image and pushing it to DockerHub.
 
 Day 12 June 18, 2021
-Finished Lesson 3.7
+Finished Lesson 3.7 Docker for Application Packaging
+Containerize a Go gile. 
+Day -- June 19, 2021
+Day off
 
-Day 13 June 19, 2021
-Started Lesson 3.8
+Day 13 June 20, 2021
+Review and finished Lesson 3.8 Docker for Application Packaging 
+Day 14 June 21, 2021
+Lesson 3.9 - 3.10 Kubernets & Kubernets quizzes.
+* [Kubernetes DNS for Services and Pods](https://kubernetes.io/docs/concepts/services-networking/dns-pod-service/)
+* [Kubernetes CRDs](https://kubernetes.io/docs/concepts/extend-kubernetes/api-extension/custom-resources/)
+* [Kubernete Cluster Autoscaler](https://kubernetes.io/blog/2016/07/autoscaling-in-kubernetes/)
+* [Kubernetes Architecture and Components](https://kubernetes.io/docs/concepts/overview/components/)
 
-Day 14 June 20, 2021
-Finished Lesson 3.8
-Day 15 June 21, 2021
-Lesson 3.9 - 3.10
+Day 15 June 22, 2021
+Lesson 3.11 -3.13 More Kubernets & quiz. Also attended the gRPC Community Meetup.
+* [Bootstrapping clusters with kubeadm] (https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/)
+Kubecofig
+* [Organizing Cluster Access Using kubeconfig Files](https://kubernetes.io/docs/concepts/configuration/organize-cluster-access-kubeconfig/)
 
-Day 16 June 22, 2021
-Lesson 3.11 -3.13. The gRPC Community Meetup.
-
-Day 17 June 23, 2021
-Lesson 3.14 - 3.15
+Day 16 June 23, 2021
+Lesson 3.14 - 3.15 Exercise: Deploy Your First Kubernetes Cluster
 
 Day 18 June 24, 2021
-Lesson 3.16 - 3.17
+Lesson 3.16 - 3.17 Kubernetes Resources Part 1 & 2
 
 Day 19 June 25, 2021
-Lesson 3.18 - 3-22
+Lesson 3.18 - 3-23 Kubernetes Resources Part 3. Useful kubectl Commands.  Quizzes. Exercise: Kubernetes Resources. 
+Declarative Kubernetes Manifests. 
+Explored more details about different management techniques and advanced configuration for Deployment resources:
+
+* [Managing Kubernetes Objects Using Imperative Commands](https://kubernetes.io/docs/tasks/manage-kubernetes-objects/imperative-command/)
+* [Declarative Management of Kubernetes Objects Using Configuration Files](https://kubernetes.io/docs/tasks/manage-kubernetes-objects/declarative-config/)
+* [Configure Liveness, Readiness Probes for a Deployment](https://kubernetes.io/docs/tasks/configure-pod-container/configure-liveness-readiness-startup-probes/)
+* [Managing Resources for Containers](https://kubernetes.io/docs/concepts/configuration/manage-resources-containers/)
+
 
 Day 20 June 26, 2021
-Lesson 3.23 - 3.
+Lesson 3.24 - 3.28 Quizzes & Exercise: Declarative Kubernetes Manifests. Edge Case: Failing Control Plane for Kubernetes
+Lesson Review. End of Lesson 3.
+
+
+
 
 
