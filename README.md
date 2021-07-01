@@ -74,7 +74,7 @@ Containerize a Go gile.
 Day -- June 19, 2021
 Day off
 
-Day 13 June 20, 2021
+Day 13 June 20, 2021 Udacity SUSE Cloud Native Nanodegree
 Review and finished Lesson 3.8 Docker for Application Packaging 
 Day 14 June 21, 2021
 Lesson 3.9 - 3.10 Kubernets & Kubernets quizzes.
@@ -83,19 +83,19 @@ Lesson 3.9 - 3.10 Kubernets & Kubernets quizzes.
 * [Kubernete Cluster Autoscaler](https://kubernetes.io/blog/2016/07/autoscaling-in-kubernetes/)
 * [Kubernetes Architecture and Components](https://kubernetes.io/docs/concepts/overview/components/)
 
-Day 15 June 22, 2021
+Day 15 June 22, 2021 Udacity SUSE Cloud Native Nanodegree
 Lesson 3.11 -3.13 More Kubernets & quiz. Also attended the gRPC Community Meetup.
 * [Bootstrapping clusters with kubeadm] (https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/)
 Kubecofig
 * [Organizing Cluster Access Using kubeconfig Files](https://kubernetes.io/docs/concepts/configuration/organize-cluster-access-kubeconfig/)
 
-Day 16 June 23, 2021
+Day 16 June 23, 2021 Udacity SUSE Cloud Native Nanodegree
 Lesson 3.14 - 3.15 Exercise: Deploy Your First Kubernetes Cluster
 
-Day 18 June 24, 2021
+Day 18 June 24, 2021 Udacity SUSE Cloud Native Nanodegree
 Lesson 3.16 - 3.17 Kubernetes Resources Part 1 & 2
 
-Day 19 June 25, 2021
+Day 19 June 25, 2021 Udacity SUSE Cloud Native Nanodegree
 Lesson 3.18 - 3-23 Kubernetes Resources Part 3. Useful kubectl Commands.  Quizzes. Exercise: Kubernetes Resources. 
 Declarative Kubernetes Manifests. 
 Explored more details about different management techniques and advanced configuration for Deployment resources:
@@ -106,9 +106,23 @@ Explored more details about different management techniques and advanced configu
 * [Managing Resources for Containers](https://kubernetes.io/docs/concepts/configuration/manage-resources-containers/)
 
 
-Day 20 June 26, 2021
+Day 20 June 26, 2021 Udacity SUSE Cloud Native Nanodegree
 Lesson 3.24 - 3.28 Quizzes & Exercise: Declarative Kubernetes Manifests. Edge Case: Failing Control Plane for Kubernetes
 Lesson Review. End of Lesson 3.
+
+Day 21 June 27, 2021 Udacity SUSE Cloud Native Nanodegree
+Lesson 4.1 Open Source PaaS. Introduction. 4.2 Cluster Management. 4.3 PaaS Mechanisms & 4.4 6 PaaS Mechanisms Quizzes
+
+Day 22 June 28, 2021 Udacity SUSE Cloud Native Nanodegree
+Lesson 4.5 Exercise: PaaS Mechanisms and 4.6 Solution
+
+Day 23 June 29, 2021 Udacity SUSE Cloud Native Nanodegree: Cloud Foundry 
+Lessons 4.7- 4.10 Cloud Foundry Exercise & Quizzes
+
+Day 24 June 30, 2021 Udacity SUSE Cloud Native Nanodegree: Function as a Service & Lesson 4 Conclusion
+Lessons 4.11 - 4.14 Function as a Service Edge Case & Exercise.
+
+
 
 
 
