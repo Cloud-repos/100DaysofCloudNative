@@ -125,7 +125,12 @@ Lessons 4.11 - 4.14 Function as a Service Edge Case & Exercise.
 Day 25 July 1, 2021 Udacity SUSE Cloud Native Nanodegree: Cloud Native CI/CD Lesson
 Lesson 5.1 - 5.2 Introduction and Big Picture: Application Releases
 
+Day 26 July 2, 2021 Udacity SUSE Cloud Native Nanodegree: Cloud Native CI/CD Lesson
+Lesson 5.3 - 5.4 Continuous Application Deployment & Quiz questions
 
+Day -- July 3, 2021 Day off over holiday weekend
+
+Day -- July 4, 2021 Hoping to get a lesson or two on this day.
 
 
 
