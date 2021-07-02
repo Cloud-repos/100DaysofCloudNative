@@ -122,7 +122,8 @@ Lessons 4.7- 4.10 Cloud Foundry Exercise & Quizzes
 Day 24 June 30, 2021 Udacity SUSE Cloud Native Nanodegree: Function as a Service & Lesson 4 Conclusion
 Lessons 4.11 - 4.14 Function as a Service Edge Case & Exercise.
 
-
+Day 25 July 1, 2021 Udacity SUSE Cloud Native Nanodegree: Cloud Native CI/CD Lesson
+Lesson 5.1 - 5.2 Introduction and Big Picture: Application Releases
 
 
 
