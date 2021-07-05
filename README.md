@@ -130,7 +130,22 @@ Lesson 5.3 - 5.4 Continuous Application Deployment & Quiz questions
 
 Day -- July 3, 2021 Day off over holiday weekend
 
-Day -- July 4, 2021 Hoping to get a lesson or two on this day.
+Day 27 July 4, 2021  Continued lesson 5 for my Udacity SUSE Cloud Native Fundamentals Course.
+
+Today, I reviewed Lesson 5.3 Continuous Application Deployment Read throught he "further reading" from the lesson:
+* [CI/CD: Continuous Integration & Delivery Explained](https://semaphoreci.com/cicd)
+* [What’s the Difference Between Continuous Integration, Continuous Deployment and Continuous Delivery?](https://semaphoreci.com/blog/2017/07/27/what-is-the-difference-between-continuous-integration-continuous-deployment-and-continuous-delivery.html)
+
+I also started lesson 5.5 Continuous Integration Fundamentals lesson
+
+This CI Fundamentals lesson covered the steps to to practice continuous integration principles by using GitHub actions. 
+
+The lesson introduced the steps necessary to build a Python "Hello World" application. Using the Docker file to invoke RUN instruction to install dependencies from the requirements.txt file (to execute the app.py application, Docker file uses CMD instruction). This lesson also covered building, testing and packaging (pytest, pylint) Docker build, and Docker push commands to create a Docker image which is then pushed to an image registry such as Docker Hub.
+The second part of this lesson covered Github Actions and provided several additional “further reading” materials to reinforce the lesson:
+* [Introduction to GitHub Actions](https://docs.github.com/en/actions/learn-github-actions/introduction-to-github-actions)
+* [Create an example workflow](https://docs.github.com/en/actions/learn-github-actions/introduction-to-github-actions#create-an-example-workflow)
+* [Inspect public workflows on GitHub Marketplace](https://github.com/marketplace?type=actions)
+
 
 
 
