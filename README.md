@@ -147,5 +147,8 @@ The second part of this lesson covered Github Actions and provided several addit
 * [Inspect public workflows on GitHub Marketplace](https://github.com/marketplace?type=actions)
 
 
+Day 27 July 5, 2021 Continued lesson 5 for my Udacity SUSE Cloud Native Fundamentals Course: 5.5 Continous Integration Fundamentals lesson.
 
+Day 28 July 6, 2021 Continued lesson 5 for my Udacity SUSE Cloud Native Fundamentals Course: 5.5 Continous Integration Fundamentals lesson.
+Completed quiz questions on 5.6 and started Lesson 5.7 Exercise: Continuous Application Deployment
 
