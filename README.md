@@ -147,15 +147,17 @@ The second part of this lesson covered Github Actions and provided several addit
 * [Inspect public workflows on GitHub Marketplace](https://github.com/marketplace?type=actions)
 
 
-Day 27 July 5, 2021 Continued lesson 5 for my Udacity SUSE Cloud Native Fundamentals Course: 5.5 Continous Integration Fundamentals lesson.
+Day 27 July 5, 2021 Continued Lesson 5 for my Udacity SUSE Cloud Native Fundamentals Course: 5.5 Continous Integration Fundamentals lesson.
 
-Day 28 July 6, 2021 Continued lesson 5 for my Udacity SUSE Cloud Native Fundamentals Course: 5.5 Continous Integration Fundamentals lesson.
+Day 28 July 6, 2021 Continued Lesson 5 for my Udacity SUSE Cloud Native Fundamentals Course: 5.5 Continous Integration Fundamentals lesson.
 Completed quiz questions on 5.6 and started Lesson 5.7 Exercise: Continuous Application Deployment
 
-Day 29 July 7, 2021 Continued lesson 5 for my Udacity SUSE Cloud Native Fundamentals Course
+Day 29 July 7, 2021 Continued Lesson 5 for my Udacity SUSE Cloud Native Fundamentals Course
 Completed lesson 5.8 reviews solution for 5.7. Started with lesson 5.9 The CD Fundamentals.
 
-Day 30 July 8, 2021 Continued lesson 5 for my Udacity SUSE Cloud Native Fundamentals Course.
+Day 30 July 8, 2021 Continued Lesson 5 for my Udacity SUSE Cloud Native Fundamentals Course.
 I read through the additional reading resources for ArgoCd mentioned in 5.9: Declarative GitOps CD Setup documentation. Completed 5.10 ArgoCD Walkthrough and the quiz questions on 5.11. Attended an excellent presentation about quality assurance automation in CI/CD. Saw an overview documetation for Pact contract testing and Martin Flowler's infodeck on [Testing Strategies in a Microservice Architecture](https://martinfowler.com/articles/microservice-testing/).
 
+Day 31 July 9, 2021 Continued Lesson 5 in Udacity SUSE Cloud Native Fundamentals Course. 
+Lesson 5.12 Exercise: The CD Fundamentals using ArgoCD to automate the delivery of an application to a Kubernetes cluster. 
 
