@@ -155,4 +155,7 @@ Completed quiz questions on 5.6 and started Lesson 5.7 Exercise: Continuous Appl
 Day 29 July 7, 2021 Continued lesson 5 for my Udacity SUSE Cloud Native Fundamentals Course
 Completed lesson 5.8 reviews solution for 5.7. Started with lesson 5.9 The CD Fundamentals.
 
+Day 30 July 8, 2021 Continued lesson 5 for my Udacity SUSE Cloud Native Fundamentals Course.
+I read through the additional reading resources for ArgoCd mentioned in 5.9: Declarative GitOps CD Setup documentation. Completed 5.10 ArgoCD Walkthrough and the quiz questions on 5.11. Attended an excellent presentation about quality assurance automation in CI/CD. Saw an overview documetation for Pact contract testing and Martin Flowler's infodeck on [Testing Strategies in a Microservice Architecture](https://martinfowler.com/articles/microservice-testing/).
+
 
