@@ -161,3 +161,6 @@ I read through the additional reading resources for ArgoCd mentioned in 5.9: Dec
 Day 31 July 9, 2021 Continued Lesson 5 in Udacity SUSE Cloud Native Fundamentals Course. 
 Lesson 5.12 Exercise: The CD Fundamentals using ArgoCD to automate the delivery of an application to a Kubernetes cluster. 
 
+Day 32 July 10, 2021 
+Continued Lesson 5 in Udacity SUSE Cloud Native Fundamentals Course. Covered Continuous delivery fundamentals using ArgoCD, Kubernetes, and started lesson 5.14 about Configuration Managers. I also attended a Zoom webinar presented by a developer who gave an excellent presentation about professional experience with Docker and Cloud Native in the field.  
+
