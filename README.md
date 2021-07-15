@@ -189,7 +189,7 @@ Day 34 July 12, 2021
 
 Continued Lesson 5 in Udacity SUSE Cloud Native Fundamentals Course. I completed lessons 5:17 - 5:18 Exercise for Configuration Managers.
 
-Day 35 July 13, 2021
+Day 35 July 13, 2021 ~ Finished the SUSE Cloud Native Fundamentals Course!
 
 I completed Lessons 5-19-5.21 Edge Case: Push and Pull methodologies for CI/CD and course recap. Overall the Cooure covered: Architecture Considerations, Container Orchestration, Open Source PaaS, and Cloud Native CI/CD.
 
