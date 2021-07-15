@@ -122,15 +122,21 @@ Lessons 4.7- 4.10 Cloud Foundry Exercise & Quizzes
 Day 24 June 30, 2021 Udacity SUSE Cloud Native Nanodegree: Function as a Service & Lesson 4 Conclusion
 Lessons 4.11 - 4.14 Function as a Service Edge Case & Exercise.
 
-Day 25 July 1, 2021 Udacity SUSE Cloud Native Nanodegree: Cloud Native CI/CD Lesson
+Day 25 July 1, 2021 
+
+Udacity SUSE Cloud Native Nanodegree: Cloud Native CI/CD Lesson
 Lesson 5.1 - 5.2 Introduction and Big Picture: Application Releases
 
-Day 26 July 2, 2021 Udacity SUSE Cloud Native Nanodegree: Cloud Native CI/CD Lesson
+Day 26 July 2, 2021 
+
+Udacity SUSE Cloud Native Nanodegree: Cloud Native CI/CD Lesson
 Lesson 5.3 - 5.4 Continuous Application Deployment & Quiz questions
 
 Day -- July 3, 2021 Day off over holiday weekend
 
-Day 27 July 4, 2021  Continued lesson 5 for my Udacity SUSE Cloud Native Fundamentals Course.
+Day 27 July 4, 2021  
+
+Continued lesson 5 for my Udacity SUSE Cloud Native Fundamentals Course.
 
 Today, I reviewed Lesson 5.3 Continuous Application Deployment Read throught he "further reading" from the lesson:
 * [CI/CD: Continuous Integration & Delivery Explained](https://semaphoreci.com/cicd)
@@ -147,20 +153,45 @@ The second part of this lesson covered Github Actions and provided several addit
 * [Inspect public workflows on GitHub Marketplace](https://github.com/marketplace?type=actions)
 
 
-Day 27 July 5, 2021 Continued Lesson 5 for my Udacity SUSE Cloud Native Fundamentals Course: 5.5 Continous Integration Fundamentals lesson.
+Day 27 July 5, 2021 
 
-Day 28 July 6, 2021 Continued Lesson 5 for my Udacity SUSE Cloud Native Fundamentals Course: 5.5 Continous Integration Fundamentals lesson.
+Continued Lesson 5 for my Udacity SUSE Cloud Native Fundamentals Course: 5.5 Continous Integration Fundamentals lesson.
+
+Day 28 July 6, 2021 
+
+Continued Lesson 5 for my Udacity SUSE Cloud Native Fundamentals Course: 5.5 Continous Integration Fundamentals lesson.
 Completed quiz questions on 5.6 and started Lesson 5.7 Exercise: Continuous Application Deployment
 
-Day 29 July 7, 2021 Continued Lesson 5 for my Udacity SUSE Cloud Native Fundamentals Course
+Day 29 July 7, 2021 
+
+Continued Lesson 5 for my Udacity SUSE Cloud Native Fundamentals Course
 Completed lesson 5.8 reviews solution for 5.7. Started with lesson 5.9 The CD Fundamentals.
 
-Day 30 July 8, 2021 Continued Lesson 5 for my Udacity SUSE Cloud Native Fundamentals Course.
+Day 30 July 8, 2021 
+
+Continued Lesson 5 for my Udacity SUSE Cloud Native Fundamentals Course.
 I read through the additional reading resources for ArgoCd mentioned in 5.9: Declarative GitOps CD Setup documentation. Completed 5.10 ArgoCD Walkthrough and the quiz questions on 5.11. Attended an excellent presentation about quality assurance automation in CI/CD. Saw an overview documetation for Pact contract testing and Martin Flowler's infodeck on [Testing Strategies in a Microservice Architecture](https://martinfowler.com/articles/microservice-testing/).
 
-Day 31 July 9, 2021 Continued Lesson 5 in Udacity SUSE Cloud Native Fundamentals Course. 
+Day 31 July 9, 2021
+
+Continued Lesson 5 in Udacity SUSE Cloud Native Fundamentals Course. 
 Lesson 5.12 Exercise: The CD Fundamentals using ArgoCD to automate the delivery of an application to a Kubernetes cluster. 
 
 Day 32 July 10, 2021 
+
 Continued Lesson 5 in Udacity SUSE Cloud Native Fundamentals Course. Covered Continuous delivery fundamentals using ArgoCD, Kubernetes, and started lesson 5.14 about Configuration Managers. I also attended a Zoom webinar presented by a developer who gave an excellent presentation about professional experience with Docker and Cloud Native in the field.  
+
+Day 33 July 11, 2021
+
+Continued working on lesson 5.14 configuration managers for the SUSE Cloud Native Foundations Course.
+
+Day 34 July 12, 2021
+
+Continued Lesson 5 in Udacity SUSE Cloud Native Fundamentals Course. I completed lessons 5:17 - 5:18 Exercise for Configuration Managers.
+
+Day 35 July 13, 2021
+
+I completed Lessons 5-19-5.21 Edge Case: Push and Pull methodologies for CI/CD and course recap. Overall the Cooure covered: Architecture Considerations, Container Orchestration, Open Source PaaS, and Cloud Native CI/CD.
+
+
 
