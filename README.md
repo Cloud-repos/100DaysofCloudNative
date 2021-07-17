@@ -191,7 +191,20 @@ Continued Lesson 5 in Udacity SUSE Cloud Native Fundamentals Course. I completed
 
 Day 35 July 13, 2021 ~ Finished the SUSE Cloud Native Fundamentals Course!
 
-I completed Lessons 5-19-5.21 Edge Case: Push and Pull methodologies for CI/CD and course recap. Overall the Cooure covered: Architecture Considerations, Container Orchestration, Open Source PaaS, and Cloud Native CI/CD.
+I completed Lessons 5-19-5.21 
 
+Edge Case: Push and Pull methodologies for CI/CD and course recap. Overall the Cooure covered: Architecture Considerations, Container Orchestration, Open Source PaaS, and Cloud Native CI/CD.
+
+Day 36 July 14, 2021
+
+Prepared to be part of #OpenSourceDay2021. Learned a lot about the open source project with OpenSUSE, IBM, OpenSUSE Leap, and Kubernetes openSUSE Kubic.
+
+Day 37 July 15, 2021
+
+Today, I was part of #OpenSourceDay2021 with OpenSUSE. Worked alongside mentors on a Linux based project which provides Linux distributions as the rolling release openSUSE Tumbleweed, the stable release openSUSE Leap and for Kubernetes openSUSE Kubic.
+
+Day 38 July 16, 2021
+
+Reviewed several topics in the Udacity Cloud Native Foundations course. I completed all of the 5 lessons in the course, but I needed to go back through and make sure all of the exercises and quizzes were completed.
 
 
