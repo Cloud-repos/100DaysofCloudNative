@@ -211,7 +211,7 @@ Day 39 July 17, 2021
 
 Attended a webinar about 'Cat vs AppArmor" given by another student in my SUSE Cloud Native Nanodegree program. I also read a few more related articles:
 * [Advanced Docker Security with AppArmor](https://dzone.com/articles/advanced-docker-security-with-apparmor) 
-* [Google Cloud Guide: Securing containers with AppArmor] (https://cloud.google.com/container-optimized-os/docs/how-to/secure-apparmor)
+* [Google Cloud Guide: Securing containers with AppArmor](https://cloud.google.com/container-optimized-os/docs/how-to/secure-apparmor)
 * [SUSE Demystifying Containers: Container Security](https://www.suse.com/c/demystifying-containers-part-iv-container-security/). 
 
 Day 40 July 18, 2021
