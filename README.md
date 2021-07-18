@@ -207,4 +207,19 @@ Day 38 July 16, 2021
 
 Reviewed several topics in the Udacity Cloud Native Foundations course. I completed all of the 5 lessons in the course, but I needed to go back through and make sure all of the exercises and quizzes were completed.
 
+Day 39 July 17, 2021
+
+Attended a webinar about 'Cat vs AppArmor" given by another student in my SUSE Cloud Native Nanodegree program. I also read a few more related articles:
+* [Advanced Docker Security with AppArmor](https://dzone.com/articles/advanced-docker-security-with-apparmor) 
+* [Google Cloud Guide: Securing containers with AppArmor] (https://cloud.google.com/container-optimized-os/docs/how-to/secure-apparmor)
+* [SUSE Demystifying Containers: Container Security](https://www.suse.com/c/demystifying-containers-part-iv-container-security/). 
+
+Day 40 July 18, 2021
+
+Continued study about container security with AppArmor. The [SUSE Container Security article](https://www.suse.com/c/demystifying-containers-part-iv-container-security/)that I started yesterday had a lot of information. I decided to follow-up with that today. I re-read through several sections and bookmarked it for future review. I will be going through many of the topics covered in that article during the SUSE Cloud Native Nanodegree program with Udacity.
+Today I read through the documetation/tutorial/clusters kubernetes documentation here:
+* [Restrict a Container's Access to Resources with AppArmor](https://kubernetes.io/docs/tutorials/clusters/apparmor/) 
+
+
+
 
