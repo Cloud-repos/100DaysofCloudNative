@@ -216,7 +216,7 @@ Attended a webinar about 'Cat vs AppArmor" given by another student in my SUSE C
 
 Day 40 July 18, 2021
 
-Continued study about container security with AppArmor. The [SUSE Container Security article](https://www.suse.com/c/demystifying-containers-part-iv-container-security/)that I started yesterday had a lot of information. I decided to follow-up with that today. I re-read through several sections and bookmarked it for future review. I will be going through many of the topics covered in that article during the SUSE Cloud Native Nanodegree program with Udacity.
+Continued study about container security with AppArmor. The [SUSE Container Security article](https://www.suse.com/c/demystifying-containers-part-iv-container-security/) that I started yesterday had a lot of information. I decided to follow-up with that today. I re-read through several sections and bookmarked it for future review. I will be going through many of the topics covered in that article during the SUSE Cloud Native Nanodegree program with Udacity.
 Today I read through the documetation/tutorial/clusters kubernetes documentation here:
 * [Restrict a Container's Access to Resources with AppArmor](https://kubernetes.io/docs/tutorials/clusters/apparmor/) 
 
