@@ -221,5 +221,18 @@ Today I read through the documetation/tutorial/clusters kubernetes documentation
 * [Restrict a Container's Access to Resources with AppArmor](https://kubernetes.io/docs/tutorials/clusters/apparmor/) 
 
 
+Day 41 July 19, 2021 Today I did not work on any new material. I asisted a few peers that are in my Udacity SUSE Cloud Foundations program as part of my Student Advocate responsibility and also contributed to a student led intitative setting up a peer mentoring program.
+
+Day 42 July 21, 2021
+Today I worked on various topics from my Udacity SUSE Cloud Native Foundations Nanodegree program. I am a Student Advocate with various responsibilites in the community program. One of these is helping students as they encounter problems with the various tooling needed in the program.
+
+Day 43 July 22, 2021 Today I watched a Q&A session with SUSE Part 2 (live). I learned a lot about OpenSUSE Open Source, the SUSE Community, a bit of Linux history, and a lot about the job opportunities available at SUSE.  I also continued to assist the students in troubleshooting problems they are encountering with the installations required for the program as well as helped two other women that I am mentoring.
+
+Day 44 July 23, 2021 Today I watched a Q&A session with SUSE Part 1 (recording). I learned a lot about OpenSUSE Open Source, the SUSE Community, a bit of Linux history, and a lot about the job opportunities available at SUSE. I also continued to assist the students in troubleshooting problems they are encountering with the installations required for the program as well as helped two other women that I am mentoring..
+
+Day 45 July 24, 2021
+Today I spent 2 hours helping students in the Udacity Cloud Native Nanodegree program. There were several questions about various topics related to Cloud Native. 
+
+
 
 
