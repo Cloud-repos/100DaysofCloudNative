@@ -69,14 +69,18 @@ Day 11 June 17, 2021
 Started Lesson 3.7 Docker for Application Packaging: Package a Go web application using Docker capabilities. This exercise will involve the creation of a Docker image and pushing it to DockerHub.
 
 Day 12 June 18, 2021
+
 Finished Lesson 3.7 Docker for Application Packaging
-Containerize a Go gile. 
-Day -- June 19, 2021
-Day off
+Containerize a Go file. 
+
+Day -- June 19, 2021 Day off
 
 Day 13 June 20, 2021 Udacity SUSE Cloud Native Nanodegree
+
 Review and finished Lesson 3.8 Docker for Application Packaging 
+
 Day 14 June 21, 2021
+
 Lesson 3.9 - 3.10 Kubernets & Kubernets quizzes.
 * [Kubernetes DNS for Services and Pods](https://kubernetes.io/docs/concepts/services-networking/dns-pod-service/)
 * [Kubernetes CRDs](https://kubernetes.io/docs/concepts/extend-kubernetes/api-extension/custom-resources/)
@@ -84,18 +88,22 @@ Lesson 3.9 - 3.10 Kubernets & Kubernets quizzes.
 * [Kubernetes Architecture and Components](https://kubernetes.io/docs/concepts/overview/components/)
 
 Day 15 June 22, 2021 Udacity SUSE Cloud Native Nanodegree
+
 Lesson 3.11 -3.13 More Kubernets & quiz. Also attended the gRPC Community Meetup.
 * [Bootstrapping clusters with kubeadm] (https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/)
 Kubecofig
 * [Organizing Cluster Access Using kubeconfig Files](https://kubernetes.io/docs/concepts/configuration/organize-cluster-access-kubeconfig/)
 
 Day 16 June 23, 2021 Udacity SUSE Cloud Native Nanodegree
+
 Lesson 3.14 - 3.15 Exercise: Deploy Your First Kubernetes Cluster
 
 Day 18 June 24, 2021 Udacity SUSE Cloud Native Nanodegree
+
 Lesson 3.16 - 3.17 Kubernetes Resources Part 1 & 2
 
 Day 19 June 25, 2021 Udacity SUSE Cloud Native Nanodegree
+
 Lesson 3.18 - 3-23 Kubernetes Resources Part 3. Useful kubectl Commands.  Quizzes. Exercise: Kubernetes Resources. 
 Declarative Kubernetes Manifests. 
 Explored more details about different management techniques and advanced configuration for Deployment resources:
@@ -232,6 +240,13 @@ Day 44 July 23, 2021 Today I watched a Q&A session with SUSE Part 1 (recording).
 
 Day 45 July 24, 2021
 Today I spent 2 hours helping students in the Udacity Cloud Native Nanodegree program. There were several questions about various topics related to Cloud Native. 
+
+Day 46 July 25, 2021 
+Spent some time with some students in my Udacity Cloud Native Nanodegree program during a study session. The discussion included topics about Kubernetes clusters, kubectl requests, K3s, ArgoCD, AppArmor and Docker. 
+
+Day 47 July 26, 2021 
+Today I went over the [Syllabus](https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/Cloud+Native+Application+Architecture+Nanodegree+Program+Syllabus.pdf) for the Udacity Cloud Native Application Architecture Nanodegree program. Overview of the program: "Run and manage applications in a cloud native environment, using open source tools and projects like ArgoCD, gRPC and Grafana". During Phase 1 of this program we were introduced to ArgoCD. We will also, "learn to identify the best application architecture solutions for an organization's needs, design a microservice arhitecture by leveraging cloud native tools and patterns, implent best practices in Kubernets security, and use dashboards to diagnose, troubleshoot and improve site reliability."
+
 
 
 
