@@ -247,8 +247,10 @@ Spent some time with some students in my Udacity Cloud Native Nanodegree program
 Day 47 July 26, 2021 
 Today I went over the [Syllabus](https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/Cloud+Native+Application+Architecture+Nanodegree+Program+Syllabus.pdf) for the Udacity Cloud Native Application Architecture Nanodegree program. Overview of the program: "Run and manage applications in a cloud native environment, using open source tools and projects like ArgoCD, gRPC and Grafana". During Phase 1 of this program we were introduced to ArgoCD. We will also, "learn to identify the best application architecture solutions for an organization's needs, design a microservice arhitecture by leveraging cloud native tools and patterns, implent best practices in Kubernets security, and use dashboards to diagnose, troubleshoot and improve site reliability." 
 
-
-
+Day 48 July 27, 2021
+Today I went over to the SUSE Community and looked into 
+[Summer Is Open](https://community.suse.com/courses/5382798/content)
+A deep dive into SUSE's and Rancher's newest open source projects. 
 
 
 
