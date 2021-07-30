@@ -252,5 +252,8 @@ Today I went over to the SUSE Community and looked into
 [Summer Is Open](https://community.suse.com/courses/5382798/content)
 A deep dive into SUSE's and Rancher's newest open source projects. 
 
+Day 49 July 28, 2021
+Participated in various activities with my SUSE Cloud Native Udacity Nanodegree program. Started the 1st week of 'Summer Is Open'. In week 1 of Summer is Open series, we will take a deep dive into Rancher Desktop with Matt Farina (software architect at SUSE). Rancher Desktop provides easy-to-use Kubernetes and container management for Mac and Windows.
 
-
+Day 50 July 29, 2021
+Participated in various community activities in the SUSE Cloud Native Udacity Nanodegree program. Continued with [Week 1 of 'Summer is Open"](https://youtu.be/TlWhC93noMo). Rancher Desktop. [Kim the Kubernetes Image manager](https://github.com/rancher/kim)
