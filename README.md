@@ -257,3 +257,7 @@ Participated in various activities with my SUSE Cloud Native Udacity Nanodegree 
 
 Day 50 July 29, 2021
 Participated in various community activities in the SUSE Cloud Native Udacity Nanodegree program. Continued with [Week 1 of 'Summer is Open"](https://youtu.be/TlWhC93noMo). Rancher Desktop. [Kim the Kubernetes Image manager](https://github.com/rancher/kim)
+
+Day 51 July 30, 2021
+
+Finished watching the video for [Week 1 of 'Summer is Open"](https://youtu.be/TlWhC93noMo). Rancher Desktop.
