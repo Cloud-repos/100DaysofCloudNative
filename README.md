@@ -261,3 +261,8 @@ Participated in various community activities in the SUSE Cloud Native Udacity Na
 Day 51 July 30, 2021
 
 Finished watching the video for [Week 1 of 'Summer is Open"](https://youtu.be/TlWhC93noMo). Rancher Desktop.
+
+Day 52 July 31, 2021 
+Explored Rancher Desktop
+
+Aug 1, 2021 -- Sunday - Day off. Spent some time with my Azure DevOps project and some time learning about Azure Static Web Apps (see notes on #100DaysofAzure).
