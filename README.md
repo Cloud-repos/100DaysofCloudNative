@@ -266,3 +266,7 @@ Day 52 July 31, 2021
 Explored Rancher Desktop
 
 Aug 1, 2021 -- Sunday - Day off. Spent some time with my Azure DevOps project and some time learning about Azure Static Web Apps (see notes on #100DaysofAzure).
+
+Day 53 August 2, 2021 
+
+Worked on Azure DevOps project. 
