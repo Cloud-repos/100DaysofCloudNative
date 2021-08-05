@@ -278,4 +278,4 @@ Day 55 August 4, 2021
 
 Continued looking into various topics about Kubernetes CyberSecurity. Also celebrating: 
 
-
+<img src="images/SUSE Finalist.png" width="400" height="400">
