@@ -274,8 +274,29 @@ Worked on Azure DevOps project.
 Day 54 August 3, 2021
 I worked on my Azure DevOps project. I also spent about an hour studying about Kubernetes CyberSecurity. 
 
-Day 55 August 4, 2021
+Day 55 August 4, 2021 
 
 Continued looking into various topics about Kubernetes CyberSecurity. Also celebrating: 
 
 <img src="images/SUSE Finalist.png" width="400" height="400">
+
+August 5 - Day off
+
+Day 56 August 6, 2021
+
+Today I resumed my Developer using Microsoft Azure Nanodegree program. Today I reviewed a lot of the material. I came across a whole section on Kubernetes from the recommended additional resources to cover in Microsoft Learn. 
+
+Lesson 3 Deploying your App with Kubernetes. Additioanl Resources:
+
+* TODO: [Introduction to Kubernetes](https://docs.microsoft.com/en-us/learn/modules/intro-to-kubernetes/)
+* Learning Path [Introduction to Kubernetes on Azure](https://docs.microsoft.com/en-us/learn/paths/intro-to-kubernetes-on-azure/)
+   Modules in this Path: Introduction to Docker containers. Done.
+* [Introduction to Azure Kubernetes Service](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-kubernetes-service/?WT.mc_id=udacity_learn-wwl) Done.
+* TODO: [Deploy a containerized application on Azure Kubernetes Service](https://docs.microsoft.com/en-us/learn/modules/aks-deploy-container-app/)
+* TODO: [Optimize compute costs on Azure Kubernetes Service (AKS)](https://docs.microsoft.com/en-us/learn/modules/aks-optimize-compute-costs/)
+* TODO: [Application and package management using Helm](https://docs.microsoft.com/en-us/learn/modules/aks-app-package-management-using-helm/)
+* TODO: [Azure Kubernetes Service Workshop](https://docs.microsoft.com/en-us/learn/modules/aks-workshop/)
+
+Lesson 4: Deployment: 4.9 Dockerizing Azure Functions. TODO: [Build a containerized web application with Docker](https://docs.microsoft.com/en-us/learn/modules/intro-to-containers/)
+
+
