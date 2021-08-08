@@ -292,7 +292,7 @@ Lesson 3 Deploying your App with Kubernetes. Additioanl Resources:
    2. Learning Path [Introduction to Kubernetes on Azure](https://docs.microsoft.com/en-us/learn/paths/intro-to-kubernetes-on-azure/)
    Modules in this Path: Introduction to Docker containers. Done.
    3. [Introduction to Azure Kubernetes Service](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-kubernetes-service/?WT.mc_id=udacity_learn-wwl) Done.
-   4. TODO: [Deploy a containerized application on Azure Kubernetes Service](https://docs.microsoft.com/en-us/learn/modules/aks-deploy-container-app/)
+   4. [Deploy a containerized application on Azure Kubernetes Service](https://docs.microsoft.com/en-us/learn/modules/aks-deploy-container-app/) Done.
    5. TODO: [Optimize compute costs on Azure Kubernetes Service (AKS)](https://docs.microsoft.com/en-us/learn/modules/aks-optimize-compute-costs/)
    6. TODO: [Application and package management using Helm](https://docs.microsoft.com/en-us/learn/modules/aks-app-package-management-using-helm/)
    7. TODO: [Azure Kubernetes Service Workshop](https://docs.microsoft.com/en-us/learn/modules/aks-workshop/)
@@ -316,9 +316,9 @@ Exercise within module: [Explore the functionality of a Kubernetes cluster](http
 
 Day 58 - August 8, 2021
 
-Completed the following Microsoft learn module and read through the additional resources and articles. This mudule was timed for 1 hour. It took me about 3 hours to cover all of this material. The sandbox was not working, so I used my Azure Portal Subscription to go through the exercises.
+Continuing with the TODOS from the list above. Today, I completed #4 -Microsoft Learn module: [Deploy a containerized application on Azure Kubernetes Service](https://docs.microsoft.com/en-us/learn/modules/aks-deploy-container-app/)
 
-MMicrosoft Learn module: [Deploy a containerized application on Azure Kubernetes Service](https://docs.microsoft.com/en-us/learn/modules/aks-deploy-container-app/)
+Completed the module and read through the additional resources and articles. This mudule was timed for 1 hour. It took me about 3 hours to cover all of this material. The sandbox was not working, so I used my Azure Portal Subscription to go through the exercises.
 
 In this module: I created and set up an AKS cluster, deployed Kubernetes workloads by using deployment YAML files, and exposed Kubernetes workloads by using services and incress. 
 
