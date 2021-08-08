@@ -288,14 +288,14 @@ Today I resumed my Developer using Microsoft Azure Nanodegree program. Today I r
 
 Lesson 3 Deploying your App with Kubernetes. Additioanl Resources:
 
-* 1. Microsoft - Introduction to Kubernetes. Done.
-* 2. Learning Path [Introduction to Kubernetes on Azure](https://docs.microsoft.com/en-us/learn/paths/intro-to-kubernetes-on-azure/)
+   1. Microsoft - Introduction to Kubernetes. Done.
+   2. Learning Path [Introduction to Kubernetes on Azure](https://docs.microsoft.com/en-us/learn/paths/intro-to-kubernetes-on-azure/)
    Modules in this Path: Introduction to Docker containers. Done.
-* 3. [Introduction to Azure Kubernetes Service](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-kubernetes-service/?WT.mc_id=udacity_learn-wwl) Done.
-* 4. TODO: [Deploy a containerized application on Azure Kubernetes Service](https://docs.microsoft.com/en-us/learn/modules/aks-deploy-container-app/)
-* 5. TODO: [Optimize compute costs on Azure Kubernetes Service (AKS)](https://docs.microsoft.com/en-us/learn/modules/aks-optimize-compute-costs/)
-* 6. TODO: [Application and package management using Helm](https://docs.microsoft.com/en-us/learn/modules/aks-app-package-management-using-helm/)
-* 7. TODO: [Azure Kubernetes Service Workshop](https://docs.microsoft.com/en-us/learn/modules/aks-workshop/)
+   3. [Introduction to Azure Kubernetes Service](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-kubernetes-service/?WT.mc_id=udacity_learn-wwl) Done.
+   4. TODO: [Deploy a containerized application on Azure Kubernetes Service](https://docs.microsoft.com/en-us/learn/modules/aks-deploy-container-app/)
+   5. TODO: [Optimize compute costs on Azure Kubernetes Service (AKS)](https://docs.microsoft.com/en-us/learn/modules/aks-optimize-compute-costs/)
+   6. TODO: [Application and package management using Helm](https://docs.microsoft.com/en-us/learn/modules/aks-app-package-management-using-helm/)
+   7. TODO: [Azure Kubernetes Service Workshop](https://docs.microsoft.com/en-us/learn/modules/aks-workshop/)
 
 Lesson 4: Deployment: 4.9 Dockerizing Azure Functions. TODO: [Build a containerized web application with Docker](https://docs.microsoft.com/en-us/learn/modules/intro-to-containers/)
 
@@ -314,4 +314,4 @@ Exercise within module: [Explore the functionality of a Kubernetes cluster](http
 7. Uninstalled MicroK8s. 
 8. Removed Multipass VM manager from my computer: exited the VM, Stopped the VM, deleted and purged the VM instance.
 
-
+Day 58 - Tomorrow- TODO: [Deploy a containerized application on Azure Kubernetes Service](https://docs.microsoft.com/en-us/learn/modules/aks-deploy-container-app/)
