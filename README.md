@@ -314,4 +314,38 @@ Exercise within module: [Explore the functionality of a Kubernetes cluster](http
 7. Uninstalled MicroK8s. 
 8. Removed Multipass VM manager from my computer: exited the VM, Stopped the VM, deleted and purged the VM instance.
 
-Day 58 - Tomorrow- TODO: [Deploy a containerized application on Azure Kubernetes Service](https://docs.microsoft.com/en-us/learn/modules/aks-deploy-container-app/)
+Day 58 - August 8, 2021
+
+Completed the following Microsoft learn module and read through the additional resources and articles. This mudule was timed for 1 hour. It took me about 3 hours to cover all of this material. The sandbox was not working, so I used my Azure Portal Subscription to go through the exercises.
+
+MMicrosoft Learn module: [Deploy a containerized application on Azure Kubernetes Service](https://docs.microsoft.com/en-us/learn/modules/aks-deploy-container-app/)
+
+In this module: I created and set up an AKS cluster, deployed Kubernetes workloads by using deployment YAML files, and exposed Kubernetes workloads by using services and incress. 
+
+Notes: 
+* In the most common case of Kubernets cluster architecture you have one control plane and several nodes to support the workloads. One can have several nodes with different sizes in different node pools across the cluster. One can tell applications and pods to spin up in nodes according to their characteristics. 
+* The HTTP application routing add-on allows for instant exposing of an app to external networks when you create ingresses. It allows you to instantly expose workloads to the web.
+* Container registeries are remote storage for container images outside the local machine safely so Kubernetes can download and run them.
+* Manifests describe what kind of workloads you want to create and manage. 
+
+* ClusterIP service type expose the selected pods internally (group pods into one single IP that's only available within the cluster.  
+  
+* LoadBalancer service type expose the selected pods externally by using an Azure Load Balancer solution. 
+* Ingress defines a set of rules to allow external application into the cluster. 
+
+Additional Resources: 
+* [Azure Kubernetes Service (AKS) Production Baseline](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks/secure-baseline-aks)
+
+* Microsoft (4/23/2021)[HTTP application routing](https://docs.microsoft.com/en-us/azure/aks/http-application-routing?WT.mc_id=deploycontainerapps_summary-learn-ludossan)
+   
+* Microsoft (4/23/2021) [AKS HTTPS ingress controller docs](https://docs.microsoft.com/en-us/azure/aks/ingress-tls)
+*  [Kubernetes ingress controllers](https://kubernetes.io/docs/concepts/services-networking/ingress-controllers/)
+  
+*  [AKS documentation on Microsoft Docs](https://docs.microsoft.com/en-us/azure/aks/?WT.mc_id=deploycontainerapps_summary-learn-ludossan)
+
+* Microsoft (1/12/2021) [Prepare an application for AKS](https://docs.microsoft.com/en-us/azure/aks/tutorial-kubernetes-prepare-app?WT.mc_id=deploycontainerapps_summary-learn-ludossan)
+* Microsoft (5/24/2021)[Deploy an AKS cluster](https://docs.microsoft.com/en-us/azure/aks/tutorial-kubernetes-deploy-cluster?WT.mc_id=deploycontainerapps_summary-learn-ludossan&tabs=azure-cli)
+* [Kubernetes service types](https://kubernetes.io/docs/concepts/services-networking/service/#publishing-services-service-types)
+   
+
+
