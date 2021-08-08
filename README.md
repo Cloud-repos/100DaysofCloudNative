@@ -288,20 +288,20 @@ Today I resumed my Developer using Microsoft Azure Nanodegree program. Today I r
 
 Lesson 3 Deploying your App with Kubernetes. Additioanl Resources:
 
-* Introduction to Kubernetes. Done.
-* Learning Path [Introduction to Kubernetes on Azure](https://docs.microsoft.com/en-us/learn/paths/intro-to-kubernetes-on-azure/)
+* 1. Microsoft - Introduction to Kubernetes. Done.
+* 2. Learning Path [Introduction to Kubernetes on Azure](https://docs.microsoft.com/en-us/learn/paths/intro-to-kubernetes-on-azure/)
    Modules in this Path: Introduction to Docker containers. Done.
-* [Introduction to Azure Kubernetes Service](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-kubernetes-service/?WT.mc_id=udacity_learn-wwl) Done.
-* TODO: [Deploy a containerized application on Azure Kubernetes Service](https://docs.microsoft.com/en-us/learn/modules/aks-deploy-container-app/)
-* TODO: [Optimize compute costs on Azure Kubernetes Service (AKS)](https://docs.microsoft.com/en-us/learn/modules/aks-optimize-compute-costs/)
-* TODO: [Application and package management using Helm](https://docs.microsoft.com/en-us/learn/modules/aks-app-package-management-using-helm/)
-* TODO: [Azure Kubernetes Service Workshop](https://docs.microsoft.com/en-us/learn/modules/aks-workshop/)
+* 3. [Introduction to Azure Kubernetes Service](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-kubernetes-service/?WT.mc_id=udacity_learn-wwl) Done.
+* 4. TODO: [Deploy a containerized application on Azure Kubernetes Service](https://docs.microsoft.com/en-us/learn/modules/aks-deploy-container-app/)
+* 5. TODO: [Optimize compute costs on Azure Kubernetes Service (AKS)](https://docs.microsoft.com/en-us/learn/modules/aks-optimize-compute-costs/)
+* 6. TODO: [Application and package management using Helm](https://docs.microsoft.com/en-us/learn/modules/aks-app-package-management-using-helm/)
+* 7. TODO: [Azure Kubernetes Service Workshop](https://docs.microsoft.com/en-us/learn/modules/aks-workshop/)
 
 Lesson 4: Deployment: 4.9 Dockerizing Azure Functions. TODO: [Build a containerized web application with Docker](https://docs.microsoft.com/en-us/learn/modules/intro-to-containers/)
 
 Day 57 August 7, 2021
 
-Continuing with the TODOS from the list above. Today, I completed Microsoft's [Introduction to Kubernetes](https://docs.microsoft.com/en-us/learn/modules/intro-to-kubernetes/) module. Covered how Kubernetes supports container orchestration, the difference between control planes and nodes, and evaluate whether Kubernates is an appropriate orchestration platform for a given workload. 
+Continuing with the TODOS from the list above. Today, I completed #1 -Microsoft's [Introduction to Kubernetes](https://docs.microsoft.com/en-us/learn/modules/intro-to-kubernetes/) module. Covered how Kubernetes supports container orchestration, the difference between control planes and nodes, and evaluate whether Kubernates is an appropriate orchestration platform for a given workload. 
 
 Exercise within module: [Explore the functionality of a Kubernetes cluster](https://docs.microsoft.com/en-us/learn/modules/intro-to-kubernetes/5-exercise-kubernetes-functionality?pivots=windows). In this exercise: Single-node cluster. Configured a MicroK8s environment on Windows, deployed an NGIX website and scaled it out to multiple instances, and finally delete the running pods and cleaned up the cluster. Note: MicroK8s are similar to MiniKube. Explored the differences between the various options: [K3d vs k3s vs KInd vs MicroK8s vs Minikube](https://thechief.io/c/editorial/k3d-vs-k3s-vs-kind-vs-microk8s-vs-minikube/) and [CNCF-Webinar Navigating the Sea of Local Clusters](https://www.cncf.io/wp-content/uploads/2020/08/CNCF-Webinar-Navigating-the-Sea-of-Local-Clusters-.pdf).
 
