@@ -293,7 +293,7 @@ Lesson 3 Deploying your App with Kubernetes. Additioanl Resources:
    Modules in this Path: Introduction to Docker containers. Done.
    3. [Introduction to Azure Kubernetes Service](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-kubernetes-service/?WT.mc_id=udacity_learn-wwl) Done.
    4. [Deploy a containerized application on Azure Kubernetes Service](https://docs.microsoft.com/en-us/learn/modules/aks-deploy-container-app/) Done.
-   5. TODO: [Optimize compute costs on Azure Kubernetes Service (AKS)](https://docs.microsoft.com/en-us/learn/modules/aks-optimize-compute-costs/)
+   5. [Optimize compute costs on Azure Kubernetes Service (AKS)](https://docs.microsoft.com/en-us/learn/modules/aks-optimize-compute-costs/) Done.
    6. TODO: [Application and package management using Helm](https://docs.microsoft.com/en-us/learn/modules/aks-app-package-management-using-helm/)
    7. TODO: [Azure Kubernetes Service Workshop](https://docs.microsoft.com/en-us/learn/modules/aks-workshop/)
 
@@ -348,3 +348,28 @@ Additional Resources:
 * [Kubernetes service types](https://kubernetes.io/docs/concepts/services-networking/service/#publishing-services-service-types)
    
 Day 59 - August 9, 2021
+
+Continuing with the TODOS from the list above. Today, I started with module: #5 'Optimize compute costs on Azure Kubernetes Service (AKS)'.
+
+Day 60 - August 10, 2021
+
+Finished module: [Optimize compute costs on Azure Kubernetes Service (AKS)](https://docs.microsoft.com/en-us/learn/modules/aks-optimize-compute-costs/)
+
+Notes: 
+* Explored strategies to optimize AKS compute costs. Ways to manage the cost-effective deployment of many workloads to meet customer demands. 
+
+* An AKS cluster with three user noe pools give you flexibility to scale the node count in each pool indemendently for each component in the solution. Because you didn't enable the autoscaler on the GPU-based node pool, that pool's node count can be scaled to zero to optimize compute costs.
+
+* The Kubernetes cluster autoscaler scales the number of nodes up or down based on computing resources required, it scales the number of nodes by monitoring the Metrics API. 
+
+* If we have a statless service that processes online orders and runs on an AKS cluster, use spot node pools on the AKS cluster to optimize costs. To do so, we run the `az nodepool add` command to add a new spot user node pool. They can't be updated, and availability can't be guaranteed, because Azure will allocate VMs to the underlying scale set only if capacity is available.
+
+* The Delete eviction policy enables you to avoid both paying disk costs and hitting quota limits. This option is the most cost effective on to use with spot node pools.
+
+* To ensure that workloads are scheduled on the nodes of the psot user node pool you configure the workload manifest file with a toleration that uses the key `kubernetes.azure.com.scalesetpriority` and applies the `NoSchedule` effect. This configuration tells the system to schedule the workload on the nodes in the spot node pool.
+
+Also: Listened to an online Webinar by [Tigera: "A Holistic Approach to Securing and Troubleshooting Cloud Native Applications: A Fireside Chat"](https://www.tigera.io/event/a-holistic-approach-to-securing-and-troubleshooting-cloud-native-applications-a-fireside-chat/).
+
+Tomorrow #6 & #7
+TODO: [Application and package management using Helm](https://docs.microsoft.com/en-us/learn/modules/aks-app-package-management-using-helm/)
+TODO: [Azure Kubernetes Service Workshop](https://docs.microsoft.com/en-us/learn/modules/aks-workshop/)
