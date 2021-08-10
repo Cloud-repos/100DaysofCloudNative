@@ -347,5 +347,4 @@ Additional Resources:
 * Microsoft (5/24/2021)[Deploy an AKS cluster](https://docs.microsoft.com/en-us/azure/aks/tutorial-kubernetes-deploy-cluster?WT.mc_id=deploycontainerapps_summary-learn-ludossan&tabs=azure-cli)
 * [Kubernetes service types](https://kubernetes.io/docs/concepts/services-networking/service/#publishing-services-service-types)
    
-
-
+Day 59 - August 9, 2021
