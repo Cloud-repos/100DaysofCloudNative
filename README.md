@@ -294,8 +294,8 @@ Lesson 3 Deploying your App with Kubernetes. Additioanl Resources:
    3. [Introduction to Azure Kubernetes Service](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-kubernetes-service/?WT.mc_id=udacity_learn-wwl) Done.
    4. [Deploy a containerized application on Azure Kubernetes Service](https://docs.microsoft.com/en-us/learn/modules/aks-deploy-container-app/) Done.
    5. [Optimize compute costs on Azure Kubernetes Service (AKS)](https://docs.microsoft.com/en-us/learn/modules/aks-optimize-compute-costs/) Done.
-   6. TODO: [Application and package management using Helm](https://docs.microsoft.com/en-us/learn/modules/aks-app-package-management-using-helm/)
-   7. TODO: [Azure Kubernetes Service Workshop](https://docs.microsoft.com/en-us/learn/modules/aks-workshop/)
+   6. [Application and package management using Helm](https://docs.microsoft.com/en-us/learn/modules/aks-app-package-management-using-helm/) Done.
+   7. [Azure Kubernetes Service Workshop](https://docs.microsoft.com/en-us/learn/modules/aks-workshop/) Done. 
 
 Lesson 4: Deployment: 4.9 Dockerizing Azure Functions. TODO: [Build a containerized web application with Docker](https://docs.microsoft.com/en-us/learn/modules/intro-to-containers/)
 
@@ -393,6 +393,20 @@ Notes:
 * Covered how introducing Helm, as part of your software development and release strategy, introduces many benefits to simply application deployments and improve productivity.
 
 
-Tomorrow  #7
+Day 62 - August 12, 2021
 
-TODO: [Azure Kubernetes Service Workshop](https://docs.microsoft.com/en-us/learn/modules/aks-workshop/)
+Today, I finished the last item on the TODOS from Lesson 3 - #7 from the list above: [Azure Kubernetes Service Workshop](https://docs.microsoft.com/en-us/learn/modules/aks-workshop/)
+
+I spent almost 4 hours on this workshop, a lot of it was review, but I also learened several new things.
+
+Things learned: 
+* Create an Azure Kubernetes Service cluster
+* Choose the best deployment options for your Pods
+* Expose Pods to internal and external network users
+* Configure SSL/TLS for Azure Kubernetes Service ingress
+* Monitor the health of an Azure Kubernetes Service cluster
+* Scale your application in an Azure Kubernetes Service cluster
+
+Summary: In this workshop, I learned to deploy container-based applications in my environment to AKS. In this workshop, I deployed a multicontainer application to Azure Kubernetes Service (AKS), used Azure Container Registry (ACR) to store your container images, deployed MongoDB with Helm and learned about key Kubernetes concepts to make deployments easier, and support communication between applications and services. Set up TSL/SSL to ensure communication is encrypted, and also set up autoscaling to handle fluctuations in traffic.
+
+
