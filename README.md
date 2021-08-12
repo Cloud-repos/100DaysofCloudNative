@@ -370,6 +370,29 @@ Notes:
 
 Also: Listened to an online Webinar by [Tigera: "A Holistic Approach to Securing and Troubleshooting Cloud Native Applications: A Fireside Chat"](https://www.tigera.io/event/a-holistic-approach-to-securing-and-troubleshooting-cloud-native-applications-a-fireside-chat/).
 
-Tomorrow #6 & #7
-TODO: [Application and package management using Helm](https://docs.microsoft.com/en-us/learn/modules/aks-app-package-management-using-helm/)
+Day 61 - August 11, 2021
+
+Continuing with the TODOS from the list above. Today, I completed module:#6  [Application and package management using Helm](https://docs.microsoft.com/en-us/learn/modules/aks-app-package-management-using-helm/)
+
+Covered:
+1. Benefits of using HELM as a Kubernetes package manager.
+2. Created a HELM chart for a cloud-native application
+3. Managed a cloud-native release using helm
+4. [What is Helm](https://docs.microsoft.com/en-us/learn/modules/aks-app-package-management-using-helm/2-what-is-helm): the Helm client, Helm Chart, Helm release, Helm repository, and benefits of using Helm.
+
+Notes:  
+
+* When you deploy a Helm chart, the applications deployed in the chart are deployed as a release. By splitting the deployment across two charts, this strategy allows you to manage each component in a separate development life cycle for upgrades and fixes.
+
+* When deploying a Helm chart, the applications deployed in the chart are deployed as a release. A single release can make it easier to manage upgrades and fixes to the components that have dependencies.
+
+* The manual management of many YAML files introduces unnecessary risk when teams want to target efficient deployment, operation, and maintenance of Kubernetes application releases. 
+* By using Helm, DevOps teams can use Helm to standardize, simplify, and implement reusable deployment packages.
+* Covered how to install third-party packages into your Azure Kubernetes (AKS) Cluster and how to create Helm charts for the applications your teams develop. 
+
+* Covered how introducing Helm, as part of your software development and release strategy, introduces many benefits to simply application deployments and improve productivity.
+
+
+Tomorrow  #7
+
 TODO: [Azure Kubernetes Service Workshop](https://docs.microsoft.com/en-us/learn/modules/aks-workshop/)
