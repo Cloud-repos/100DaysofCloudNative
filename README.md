@@ -409,4 +409,11 @@ Things learned:
 
 Summary: In this workshop, I learned to deploy container-based applications in my environment to AKS. In this workshop, I deployed a multicontainer application to Azure Kubernetes Service (AKS), used Azure Container Registry (ACR) to store your container images, deployed MongoDB with Helm and learned about key Kubernetes concepts to make deployments easier, and support communication between applications and services. Set up TSL/SSL to ensure communication is encrypted, and also set up autoscaling to handle fluctuations in traffic.
 
+I am honored to have been selected to continue learning cloud native skills with Udacity in the [SUSE Cloud Native Scholarship program](https://www.udacity.com/scholarships/suse-cloud-native-foundations-scholarship). I am among top 300 out of over 12,000 scholars to have been selected to advance to the Cloud Native Application Architecture Nanodegree program.
+
+<img src="images/SUSE Notification.PNG" width="362" height="264">
+
+Day 63 - August 13 2021
+
+Today I looked over the syllabus for the [Cloud Native Application Architecture Nanodegree Program](https://github.com/Cloud-repos/100DaysofCloudNative/blob/main/Cloud%2BNative%2BApplication%2BArchitecture%2BNanodegree%2BProgram%2BSyllabus.pdf). I am looking forward to all the things to be learned over the next sixteen weeks! The program will run from August 16 to December 6, 2021.
 
