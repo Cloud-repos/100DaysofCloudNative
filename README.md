@@ -417,3 +417,4 @@ Day 63 - August 13 2021
 
 Today I looked over the syllabus for the [Cloud Native Application Architecture Nanodegree Program](https://github.com/Cloud-repos/100DaysofCloudNative/blob/main/Cloud%2BNative%2BApplication%2BArchitecture%2BNanodegree%2BProgram%2BSyllabus.pdf). I am looking forward to all the things to be learned over the next sixteen weeks! The program will run from August 16 to December 6, 2021.
 
+August 14-15 Took two days off to catch up on my Azure Nanodegree programs.
