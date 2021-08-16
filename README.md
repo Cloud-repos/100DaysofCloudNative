@@ -413,8 +413,12 @@ I am honored to have been selected to continue learning cloud native skills with
 
 <img src="images/SUSE Notification.PNG" width="362" height="264">
 
-Day 63 - August 13 2021
+Day 63 - August 13, 2021
 
 Today I looked over the syllabus for the [Cloud Native Application Architecture Nanodegree Program](https://github.com/Cloud-repos/100DaysofCloudNative/blob/main/Cloud%2BNative%2BApplication%2BArchitecture%2BNanodegree%2BProgram%2BSyllabus.pdf). I am looking forward to all the things to be learned over the next sixteen weeks! The program will run from August 16 to December 6, 2021.
 
 August 14-15 Took two days off to catch up on my Azure Nanodegree programs.
+
+Day 64 August 16, 2021
+
+Phase 2 of the Udacity Cloud Native Application Architecture Program Nanodegree Program started today. Today I completed the following: Set up Study Schedule for the next two weeks. I completed the new items in lesson 1, meeting the new instructors and the plan for success. I also went over the completed material as a brief review. I also looked over the project deadlines, forums, and a brief overview at the entire program. 
