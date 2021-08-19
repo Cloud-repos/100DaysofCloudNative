@@ -428,7 +428,7 @@ I looked over the 1st project for the Cloud Native Applications Architecture Nan
 
 Day 66 August 18, 2021
 
-Continued working on Step 1. Today I read over documentation for adding logs to the application. These were some helpful and interesting articles:
+Continued working on Step 1. Today I read over documentation for adding logs to the application:
 * [Best string formatting technique for logging in Python](https://dev.to/izabelakowal/what-is-the-best-string-formatting-technique-for-logging-in-python-d1d)
 * [Python Logging Best Practices](https://coralogix.com/blog/python-logging-best-practices-tips/)
 * [Python Logging documentation](https://docs.python.org/3/howto/logging.html)
