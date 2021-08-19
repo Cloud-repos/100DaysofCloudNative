@@ -422,3 +422,14 @@ August 14-15 Took two days off to catch up on my Azure Nanodegree programs.
 Day 64 August 16, 2021
 
 Phase 2 of the Udacity Cloud Native Application Architecture Program Nanodegree Program started today. Today I completed the following: Set up Study Schedule for the next two weeks. I completed the new items in lesson 1, meeting the new instructors and the plan for success. I also went over the completed material as a brief review. I also looked over the project deadlines, forums, and a brief overview at the entire program. 
+
+Day 65 August 17, 2021
+I looked over the 1st project for the Cloud Native Applications Architecture Nanodegree program. I stared with step 1, Best Practices for Application Deployment - Healthcheck and Metrics endpoints. Read over some of the [Kubernetes documentation for configuring liveness, readiness, and Startup Probes](https://kubernetes.io/docs/tasks/configure-pod-container/configure-liveness-readiness-startup-probes/).
+
+Day 66 August 18, 2021
+
+Continued working on Step 1. Today I read over documentation for adding logs to the application. These were some helpful and interesting articles:
+* [Best string formatting technique for logging in Python](https://dev.to/izabelakowal/what-is-the-best-string-formatting-technique-for-logging-in-python-d1d)
+* [Python Logging Best Practices](https://coralogix.com/blog/python-logging-best-practices-tips/)
+* [Python Logging documentation](https://docs.python.org/3/howto/logging.html)
+
