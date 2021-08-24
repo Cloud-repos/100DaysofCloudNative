@@ -439,7 +439,7 @@ Day 67 August 21, 2021 Today I continued working on the TechTrends project for m
 
 August 22, 2021 Didn't have time to work on Cloud Native today. Something unexpected came up and I had to travel out of the area most of the day.
 
-Day 68, August 23, 2021 Resumed working on the SUSE Cloude Native Nanodegree program. Reviewed lessons in the program and resummed work on the TechTrends project.
+Day 68, August 23, 2021 Resummed working on the SUSE Cloude Native Nanodegree program. Reviewed lessons in the program and resummed work on the TechTrends project.
 
 
 
