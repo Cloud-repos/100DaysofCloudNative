@@ -433,13 +433,12 @@ Continued working on Step 1. Today I read over documentation for adding logs to 
 * [Python Logging Best Practices](https://coralogix.com/blog/python-logging-best-practices-tips/)
 * [Python Logging documentation](https://docs.python.org/3/howto/logging.html) 
 
-August 19-20, 2021 Took some time off for several family activities.
-
 Day 67 August 21, 2021 Today I continued working on the TechTrends project for my Udacity Cloud Native Nanodegree program. Today, I continued working on step 1: implementing the logging, and started working on step 2: Docker for Application Packaging. This step forcuses on packaging the application using Docker. It requires writing a Dockerfile and building a Docker image and running and testing the application locally inside a Docker container. 
 
-August 22, 2021 Didn't have time to work on Cloud Native today. Something unexpected came up and I had to travel out of the area most of the day.
-
 Day 68, August 23, 2021 Resummed working on the SUSE Cloude Native Nanodegree program. Reviewed lessons in the program and resummed work on the TechTrends project.
+
+
+
 
 
 
