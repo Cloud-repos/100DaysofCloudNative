@@ -438,6 +438,23 @@ Day 67 August 21, 2021 Today I continued working on the TechTrends project for m
 Day 68, August 23, 2021 Resummed working on the SUSE Cloude Native Nanodegree program. Reviewed lessons in the program and resummed work on the TechTrends project.
 
 
+Day 69, November 30, 2021 
+
+I have not been documenting my progress in Cloud Native, but I have been covering several relevant topics over the past few months. 
+
+I have been working on the Udacity Developer using Microsoft Azure program, a Microsoft Ignite Challenge, and several training courses on LinkedIn Learning. Happy to announce that I gradutaed from the Developer using Microsoft Azure nandoegree program. I completed the I worked on the last 3 projects for that program over the past month where I covered an introduction to developing, deploying, and monitoring applications to Azure. 
+
+For my Udacity Cloud Native program I have done further study on several of the topics through LinkedIn Learning. I like to explore some of the topics in depth so that I have a better understanding.  
+
+Some of the LinkedIn Courses I have completed:
+
+* [Apache Kafka Essential Training: Building Scalable Applications -released April 2021](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications)
+* [Building APIs with Swagger and the OpenAPI Specification - Oct 2020](https://www.linkedin.com/learning/building-apis-with-swagger-and-the-openapi-specification/)
+* [Learning Cloud Computing: Cloud Security](https://www.linkedin.com/learning/learning-cloud-computing-cloud-security-14366063/understanding-cloud-security)
+* [Microservices: Asynchronous Messaging](https://www.linkedin.com/learning/microservices-asynchronous-messaging/getting-work-done-in-microservices) In the Udacity program we covered "Message passing" in the second course. This LinkedIn course covered an alternative way of handling communication in a microservices architecture. This course covered how to go beyond RESTful API calls over HTTP and leverage asynchronous messaging, the tradeoffs, the gains, as well as use cases of interservice communication patterns, event-driven microservices patterns, and using asynchronous messaging to solve for data migration when moving to microservice architectures. The course also covered streaming data platforms, data flows, migration, and synchronization.
+* I have commpleted 100% of the courses in the Udacity Cloud Native Architecture Nanodegree Program. Courses include: Cloud Native Fundamentals, Message Passing, Observability, and Microservices Security. I will be documenting more about each of these courses as I work on the accompanying projects for each course. 
+* In progress: LinkedIn Kubernetes project. On 11/4/2021 the LinkedIn Learning course [Kubernetes: Your First Project](https://www.linkedin.com/learning/kubernetes-your-first-project/) was released. I started this course and I look forward to all of the topics covered. This is not my first Kubernetes project (I have done several over the course of the past year). I am curious to learn what is new and I will have another opportunity to deploy into AWS Elastic Kubernetes Service and AWS Elastic Container Registry, which is new to me this year. 
+
 
 
 
