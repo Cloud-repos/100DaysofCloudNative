@@ -456,6 +456,12 @@ Some of the LinkedIn Courses I have completed:
 * In progress: LinkedIn Kubernetes project. On 11/4/2021 the LinkedIn Learning course [Kubernetes: Your First Project](https://www.linkedin.com/learning/kubernetes-your-first-project/) was released. I started this course and I look forward to all of the topics covered. This is not my first Kubernetes project (I have done several over the course of the past year). I am curious to learn what is new and I will have another opportunity to deploy into AWS Elastic Kubernetes Service and AWS Elastic Container Registry, which is new to me this year. 
 
 
+Day 70 July 24, 2022 UPDATE: 
+
+UPDATE. I last wrote a note about my 100DaysofCloudNative on November 30, 2021. Since my Cloud focus has been with Microsoft Azure I had applied for a Cloud Architect program with Udacity. The program started in December 2021. Udacity's Cloud Architect using Microsoft Azure Nanodegree program sponsored by Bertelsmann University. I was hoping to complete the SUSE scholarship program before the deadline, but the topics covered are very thorough and required learning many new things. I focused on deep learning and understanding of the topics rather than rushing to make the projects work. It was a very rewarding experience and I hope to go back through the program again, with more time.  I have continued my learning of Kubernetes and other technologies introduced to me by this program.   
+
+For the next several months, from December 2021 to May 2022 I focused on completing the Udacity Cloud Architect using Microsoft Azure program. I completed 3 projects and graduated on May 16, 2022. During this time I also completed several courses on Azure DevOps and Security on LinkedIn Learning and Pluralsight. 
+
 
 
 
